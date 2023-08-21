@@ -1,0 +1,117 @@
+commit 39050c7d357b224825a8c1ed720785b875dc2c8a
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sun Aug 20 11:43:19 2023 -0600
+
+    Agregando 2 párrafos
+
+commit 3a2fa7d327969e9619ed4904e7e9b5007f6a6eca
+Merge: b33f37f 6338524
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Sun Aug 20 10:05:27 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit b33f37fb41c8a1eca3632e26cc52f0d938e54351
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 17:51:33 2023 -0600
+
+    Agregando estaciones del año con fechas de inicio
+
+commit 6338524eac7b805908ea71fa7c563442fbecdf5d
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 17:51:33 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 3cf9425f7d86a2f4402465f3258da6976ddfff0c
+Merge: bfa3a45 06e1472
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 17:38:47 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 06e14721493bf04ea9f4470a79e26069b46b3d9d
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 17:32:21 2023 -0600
+
+    Agregando index.js al index.html
+
+commit bfa3a4520af929803fbd063aecac23e56448c3b2
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 17:29:07 2023 -0600
+
+    Agregando la hoja de estilos al html
+
+commit 35d39ab33da5061332a7a31013eb56023b619e27
+Merge: 330a59c 250310e
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 17:16:54 2023 -0600
+
+    Merge branch 'js'
+
+commit 250310e0f77aef90844012ec1335d158cc21ad66
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 15:55:03 2023 -0600
+
+    Creando Idex.js
+
+commit 330a59cea72ee96a412a07c6c69eaa7a06713c04
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 15:49:53 2023 -0600
+
+    Creando style.css
+
+commit 6ee87901427c374c3555df8ab062ee0909466a29
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Fri Aug 18 15:43:46 2023 -0600
+
+    Creando index.html
+
+commit 39a93f1a1e201f55b7b2ce95a742aae0427e4cb0
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Aug 17 15:56:31 2023 -0600
+
+    Ignorando archivos .exe
+
+commit bfac3aba53520d26d4588dff354745eb6b42843d
+Author: Emmalcd <123346924+Emmalcd@users.noreply.github.com>
+Date:   Thu Aug 17 10:53:35 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 4bbab6f7985eae302838a68fc5e5bd267d4cdfb2
+Merge: 28b0653 c8df515
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Aug 17 10:35:05 2023 -0600
+
+    Merge branch 'master' of https://github.com/Emmalcd/cursogit
+
+commit 28b06533c760ef517ecbb8f62da5c9c9415066eb
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Aug 17 10:21:02 2023 -0600
+
+    Agregando más contenido al README
+
+commit c8df515140ff347c906cfbe3800a4cb4be69977a
+Author: Emmalcd <123346924+Emmalcd@users.noreply.github.com>
+Date:   Thu Aug 17 09:53:08 2023 -0600
+
+    Update README.md
+
+commit 399a4b413935e6c88639afb16ec4708d8f629021
+Author: Emmalcd <123346924+Emmalcd@users.noreply.github.com>
+Date:   Thu Aug 17 09:52:37 2023 -0600
+
+    Update README.md
+
+commit d057ddcb6aed6f32258d54484c921c0dae7a3c9c
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Aug 17 09:35:55 2023 -0600
+
+    Agregando contenido al README
+
+commit b571eee2721a5d7e125cedf9fe318f8a4032cd56
+Author: Emmalcd <joselemmanuel9@gmail.com>
+Date:   Thu Aug 17 09:30:41 2023 -0600
+
+    Primer commit

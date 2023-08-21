@@ -1,0 +1,28 @@
+* 39050c7 Agregando 2 párrafos
+*   3a2fa7d Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * 6338524 Agregando las estaciones del año
+* | b33f37f Agregando estaciones del año con fechas de inicio
+|/  
+*   3cf9425 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 06e1472 Agregando index.js al index.html
+* | bfa3a45 Agregando la hoja de estilos al html
+* |   35d39ab Merge branch 'js'
+|\ \  
+| * | 250310e Creando Idex.js
+* | | 330a59c Creando style.css
+| |/  
+|/|   
+* | 6ee8790 Creando index.html
+|/  
+* 39a93f1 Ignorando archivos .exe
+* bfac3ab Creando licencia del repositorio
+*   4bbab6f Merge branch 'master' of https://github.com/Emmalcd/cursogit
+|\  
+| * c8df515 Update README.md
+| * 399a4b4 Update README.md
+* | 28b0653 Agregando más contenido al README
+|/  
+* d057ddc Agregando contenido al README
+* b571eee Primer commit
